@@ -2,8 +2,6 @@
 
 > I'm a front-end developer currently working with NextJS and TypeScript.
 
-🔭 Building a full-stack e-commerce store https://github.com/Won-Games-E-Commerce.
-
 💬 You can send me an e-mail at me@rodrigofernand.es or find me on <a href="https://www.linkedin.com/in/rodrigo-fernandes-158aa5219/" alt="Linkedin">
   LinkedIn</a>.
 
